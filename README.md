@@ -1,2 +1,2 @@
-# omeka-s-module-CAS
-Log in to Omeka S using a CAS server. Compatible with version 3
+# CAS module for Omeka S
+Log in to Omeka S using a CAS server. Updated to be compatible with version 3
